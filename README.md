@@ -80,7 +80,9 @@ Before you begin, ensure you have the following installed on your system:
     ```
 
    The script will output buy and sell signals based on the analysis.
+3. **Output**:
 
+   ![image](https://github.com/user-attachments/assets/1babfe2d-fcd8-4e1d-9cc3-254d3cc3e79c)
 ## Testing
 
 To run the unit tests for data validation and strategy logic, use the following command:
